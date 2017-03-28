@@ -1,0 +1,10 @@
+F:\source\c#\改本机ip\改本机ip\bin\Debug\改本机ip.exe.config
+F:\source\c#\改本机ip\改本机ip\bin\Debug\改本机ip.exe
+F:\source\c#\改本机ip\改本机ip\bin\Debug\改本机ip.pdb
+F:\source\c#\改本机ip\改本机ip\obj\Debug\改本机ip.Form1.resources
+F:\source\c#\改本机ip\改本机ip\obj\Debug\改本机ip.Properties.Resources.resources
+F:\source\c#\改本机ip\改本机ip\obj\Debug\改本机ip.csproj.GenerateResource.Cache
+F:\source\c#\改本机ip\改本机ip\obj\Debug\改本机ip.exe
+F:\source\c#\改本机ip\改本机ip\obj\Debug\改本机ip.pdb
+F:\source\c#\改本机ip\改本机ip\obj\Debug\改本机ip.csprojResolveAssemblyReference.cache
+F:\source\c#\改本机ip\改本机ip\obj\Debug\改本机ip.Save.resources
